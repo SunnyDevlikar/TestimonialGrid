@@ -11,7 +11,7 @@ main {
     height: 100%;
     width: 100%;
      display: flex;
-    justify-content: center; /* Centers horizontally */
+    justify-content: center; 
     align-items: center;  
 }
 .container{
